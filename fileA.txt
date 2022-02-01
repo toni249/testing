@@ -1,1 +1,1 @@
-content of file A from new branch.
+content of file A from new branch from b2.
