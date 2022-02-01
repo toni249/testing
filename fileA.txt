@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-content of file A from new branch b3.
-=======
-content of file A from new branch b3.
->>>>>>> ff13da5e4bf15c1041eaf1f87ca1dcfece0bffd5
+
+content of file A from new branch b2 >> b3.
+
+
